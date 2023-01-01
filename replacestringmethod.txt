@@ -1,0 +1,11 @@
+import java.util.Locale;
+
+public class Main {
+    public static void main(String[] args) {
+    String name="Ha rry";
+ String lstring = name.replace(" ","_");
+        System.out.println(lstring);
+
+
+    }
+    }
